@@ -5,6 +5,4 @@ def get_randomInt():
 	random_number = random.random()
 	return random_number
 
-
-
 print(get_randomInt())
