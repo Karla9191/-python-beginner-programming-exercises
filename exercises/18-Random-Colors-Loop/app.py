@@ -22,6 +22,6 @@ def get_allStudentColors():
 
 
 
-
+get_allStudentColors()
 
 print(get_allStudentColors())
