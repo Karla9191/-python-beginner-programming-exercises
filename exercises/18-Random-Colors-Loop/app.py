@@ -17,9 +17,11 @@ def get_color(color_number=4):
 def get_allStudentColors():
 
     example_color = 1
-    students_array = []
+    students_array = [0,1,2,3,4,5,6,7,8,9]
     #your loop here
-
+    for i in range(10):
+		print("Estudiante")
+	return i
 
 
 get_allStudentColors()
